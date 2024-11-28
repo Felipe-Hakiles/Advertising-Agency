@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* border: none; */
+    /* outline: none; */
+    box-sizing: border-box;
+    font-weight: 300;
+} 
+
+a{
+    text-decoration: none;
+    color:black
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+}
